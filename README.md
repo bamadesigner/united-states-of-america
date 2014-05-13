@@ -6,7 +6,7 @@ After having to come up with several states' coordinates, and counties, for a pr
 - Abbreviation
 - Label
 - Capital
-- Capital Coordintes
+- Capital Coordinates
 - Counties
 - State Coordinates
 - Center of State Coordinates
