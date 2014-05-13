@@ -6,9 +6,10 @@ After having to come up with several states' coordinates, and counties, for a pr
 - Abbreviation
 - Label
 - Capital
+- Capital Coordintes
 - Counties
-- Coordinates (state boundaries)
-- Center (coordinate)
+- State Coordinates
+- Center of State Coordinates
 
 ### "United States of America Coordinates" Google Map
 
