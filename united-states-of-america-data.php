@@ -1,6 +1,5 @@
 <?php
 
-global $united_states_of_america;
 $united_states_of_america = array(
 	'AL' => (object) array(
 		'abbreviation'		=> 'AL',
